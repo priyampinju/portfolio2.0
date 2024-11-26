@@ -27,7 +27,7 @@ const Navbar = () => {
             Pinju Priyam
           </p>
         </Link>
-        <ul className="list-none xs:hidden sm:flex flex-row gap-10">
+        <ul className="nav-list list-none flex flex-row gap-10">
           {navLinks.map((link) => (
             <li
               key={link.id}
