@@ -207,7 +207,7 @@
   display: none;
 }
 
-@media (min-width: 460px) {
+@media (min-width: 640px) {
   .nav-list {
     display: flex;
   }
