@@ -15,9 +15,9 @@ const About = () => {
 
       <motion.p vaiants={fadeIn("", "", 0.1, 1)} className="">
         I'm Pinu thebrjbdfsdbfs Lorem ipsum dolor amet, adipisicing elit. Eum,
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam
-        molestias amet sunt dignissimos provident, voluptas vel dicta ducimus
-        similique! autem?
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ull molestias
+        amet sunt dignissimos provident, voluptas vel dicta ducimus similique!
+        autem?
       </motion.p>
     </>
   );
