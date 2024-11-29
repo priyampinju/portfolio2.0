@@ -14,8 +14,8 @@ const About = () => {
       </motion.div>
 
       <motion.p vaiants={fadeIn("", "", 0.1, 1)} className="">
-        I'm Pinu thebrjbdfsdbfs Lorem ipsum dolor sit amet, adipisicing elit.
-        Eum, autem?
+        I'm Pinu thebrjbdfsdbfs Lorem ipsum dolor amet, adipisicing elit. Eum,
+        autem?
       </motion.p>
     </>
   );
