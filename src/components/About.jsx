@@ -18,7 +18,6 @@ const About = () => {
         Lorem ipsum, dolor sit amet conseeur adipicg eit. Ull otias amet sunt
         dignissimos provident, voluptas vel dicta ducimus similique! autem?
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias,
-        doloremqu
       </motion.p>
     </>
   );
